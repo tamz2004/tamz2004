@@ -5,7 +5,7 @@
 🤖 Exploring **Applied AI, Machine Learning & AI-powered applications**<br>
 🚀 Freelance Developer focused on **refining ideas into practical, polished products**<br>
 🛠️ Building across **development, databases, cloud & deployment**<br>
-⚡ Always learning, always building, and always looking for a better way to ship it.
+⚡ Always learning, always building and always looking for a better way to ship it.
 
 # 💻 Tech Stack:
 
