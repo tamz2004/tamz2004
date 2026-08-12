@@ -1,7 +1,11 @@
 # 💫 About Me:
 
-Full Stack Developer<br>MERN Stack • Freelance Developer<br>Turning ideas into refined, efficient products<br>Always learning. Always building.
-
+💻 Full-Stack Developer building **modern, efficient & scalable web applications**<br>
+🌐 Working with **MERN Stack, React, Next.js & Node.js** to turn ideas into real products<br>
+🤖 Exploring **Applied AI, Machine Learning & AI-powered applications**<br>
+🚀 Freelance Developer focused on **refining ideas into practical, polished products**<br>
+🛠️ Building across **development, databases, cloud & deployment**<br>
+⚡ Always learning, always building, and always looking for a better way to ship it.
 
 # 💻 Tech Stack:
 
