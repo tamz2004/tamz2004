@@ -2,9 +2,6 @@
 
 Full Stack Developer<br>MERN Stack • Freelance Developer<br>Turning ideas into refined, efficient products<br>Always learning. Always building.
 
-## 🌐 Socials:
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahamedtamzil95@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -92,6 +89,8 @@ Full Stack Developer<br>MERN Stack • Freelance Developer<br>Turning ideas into
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-stats-extended.vercel.app/api?username=tamz2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -104,6 +103,8 @@ Full Stack Developer<br>MERN Stack • Freelance Developer<br>Turning ideas into
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=tamz2004&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahamedtamzil95@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
