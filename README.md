@@ -101,6 +101,10 @@
 ![](https://streak-stats.demolab.com/?user=tamz2004&theme=dark&hide_border=false)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=tamz2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 GitHub Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/tamz2004/tamz2004/output/github-snake.svg)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
